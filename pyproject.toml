@@ -1,0 +1,9 @@
+[tool.pytest.ini_options]
+testpaths = ["test_detector.py", "test_sprites.py", "test_smoke.py", "test_i18n.py", "test_updater.py"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]

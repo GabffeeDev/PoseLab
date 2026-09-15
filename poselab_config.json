@@ -1,0 +1,17 @@
+{
+  "fuente": "C:\\Users\\javie\\Desktop\\ExPoserDX\\images.rpa\\images",
+  "doki": "sayori",
+  "izq": "1l",
+  "der": "1r",
+  "cara": "a",
+  "compuesto": "",
+  "offset_cara": [
+    0,
+    0
+  ],
+  "fondo": "club",
+  "transform": "t42",
+  "zoom": 1.0,
+  "incluir_def": false,
+  "idioma": "es"
+}
